@@ -1,6 +1,6 @@
 <div align=center>
-<img src="./res-1.jpeg">
+<img src="./appendix/res-1.jpg">
 </div>
 <div align=center>
-<img src="./res-2.jpeg">
+<img src="./appendix/res-2.jpg">
 </div>
